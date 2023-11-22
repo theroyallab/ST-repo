@@ -1,0 +1,9 @@
+[
+    {
+        "id": "Extension-Tabby-Loader",
+        "type": "extension",
+        "name": "Tabby Loader",
+        "description": "Handle model loading with TabbyAPI.",
+        "url": "https://github.com/theroyallab/ST-tabbyAPI-loader"
+    }
+]
